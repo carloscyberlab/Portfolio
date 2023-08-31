@@ -28,9 +28,7 @@ I have curated a portfolio showcasing a diverse range of projects, spanning from
 <h2>3D Art</h2>
 
 <p align="center">
- <br/>
-<img src="https://imgur.com/UVupsf3" height="80%" width="80%" alt="3D"/>
-<br />
-
+Virtual Box: <br/>
+![Imgur Image](https://imgur.com/UVupsf3)
 <br />
 
