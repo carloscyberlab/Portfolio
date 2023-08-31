@@ -16,7 +16,21 @@ I have curated a portfolio showcasing a diverse range of projects, spanning from
 - This book showcases my abilities in creating concise brochures enriched with illustrative elements.
 
  <h2>Music Production</h2>
- :notes: https://open.spotify.com/artist/3cg8AHjUcfbmAMxg83CFZr?si=ZE0d8CYNQDaiQPvcECOjCg
+ :notes: Music Profile https://rb.gy/sey1o
+
+- This profile showcases my music production skills.
+
+<h2>Web Design</h2>
+:computer: Web Design https://www.rnrcabinets.com/
+
+- I possess foundational knowledge of HTML and UI design, and this website serves as a demonstration of my proficiency in web design.
+
+<h2>3D Art</h2>
+
+<p align="center">
+ <br/>
+<img src="https://imgur.com/UVupsf3" height="80%" width="80%" alt="3D"/>
+<br />
 
 <br />
 
